@@ -33,5 +33,5 @@ class Solution:
         return -1
 
 test_list = [4,5,6,7,0,1,2]
-print(binary_search(test_list, 3))
-print(binary_search(test_list, 6))
+print(search(test_list, 3))
+print(search(test_list, 6))

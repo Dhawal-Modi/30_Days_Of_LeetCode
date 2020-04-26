@@ -8,4 +8,3 @@ class Solution:
                 return m << k
             m = m >> 1
             n = n >> 1
-                    
